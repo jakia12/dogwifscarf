@@ -5588,7 +5588,7 @@ p {
   }
 
   .nav__container {
-    background-color: transparent;
+    background-color: #000;
   }
 
   .nav__link {
@@ -6362,7 +6362,7 @@ p {
     height: 100vh;
     padding-top: 112px;
     border-radius: 0px;
-    background-color: #f0ecd6;
+    background-color: #000;
   }
 
   .nav__link {
